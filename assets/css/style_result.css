@@ -1,0 +1,13 @@
+.container {
+    justify-items: center;
+    align-items: center;
+    margin-top: 200px;
+}
+ body {
+    background-color: rgb(172, 172, 216);
+ }   
+ .btn {
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+ }
